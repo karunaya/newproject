@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 hi
 s
+=======
+Hi how are you for wp-01
+>>>>>>> 46ef37a43b570fe7fe41730c72faa7ec87a4a9c3
+=======
+>>>>>>> parent of 19cd8aa (adding modified file to repo)
