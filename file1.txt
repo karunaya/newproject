@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 hi
 how are you
-=======
-Hi how are you for wp-01
->>>>>>> 46ef37a43b570fe7fe41730c72faa7ec87a4a9c3
+
