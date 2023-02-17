@@ -14,6 +14,6 @@ jobs:
     steps:
       - name: "Say Hello karuna it's Monday"
         #run: echo "$Greeting $First_Name. Today is $DAY_OF_WEEK!"
-        run: echo "$name"
+        run: echo "${{ env.name }}"
         env:
           First_Name: karuna
